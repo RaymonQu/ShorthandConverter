@@ -43,6 +43,10 @@ body{
   border: solid darkblue thick;
 }
 
+#puppy4{
+  border: solid purple;
+}
+
 .info {
   text-align: center;
   color: darkgreen;

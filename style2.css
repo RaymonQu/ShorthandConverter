@@ -13,12 +13,19 @@
 
 #red {
   background-color: red;
+  border: 10px black solid;
 }
 
 #green {
   background-color: green;
+  border: 10px black solid;
 }
 
 #blue {
   background-color: blue;
+  border: 10px black solid;
+}
+#grey{
+  background-color: grey;
+  border: 10px black solid;
 }
